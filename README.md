@@ -4,5 +4,7 @@ this is a demo repo
 Author - Ranjan RICHEST MAN ON THE EARTH
 <br>
 College - Parul University
-<be>
+<br>
 <h1>Next Six month MERN stack + Basic DevOps + DSA in hand</h1>
+<br>
+<h2>Congraluation Ranjan! 🎉 You selected for Google 2025 Summer INTERNSHIP 👏</h2>
