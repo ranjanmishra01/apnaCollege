@@ -1,7 +1,7 @@
 # apnaCollege
 this is a demo repo
 <br>
-Author - Ranjan mishra
+Author - Ranjan RICHEST MAN ON THE EARTH
 <br>
 College - Parul University
 <be>
