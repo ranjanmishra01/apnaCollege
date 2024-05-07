@@ -1,2 +1,3 @@
 # apnaCollege
-this is demo repo
+this is a demo repo
+Author - Ranjan mishra
